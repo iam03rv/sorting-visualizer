@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 3) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://iam03rv.github.io/Sorting-Visualizer/
+Take a look at live version: https://iam03rv.github.io/sorting-visualizer/
